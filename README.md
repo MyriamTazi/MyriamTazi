@@ -9,6 +9,9 @@
 
 <h3 align="left">Reach me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/MyriamTazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/MyriamTazi/" height="40" width="50" /></a>
-<a href="https://twitter.com/Myriam90s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MyriamTazi" height="40" width="50" /></a>
-
+<a href="https://www.linkedin.com/in/myriamtazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/myriamtazi/" height="35" width="45" /></a>
+<a href="https://twitter.com/Myriam90s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MyriamTazi" height="35" width="45" /></a>
+  
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+<a href="https://www.python.org//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a> 
