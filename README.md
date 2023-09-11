@@ -14,4 +14,4 @@
   
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://www.python.org//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a> 
